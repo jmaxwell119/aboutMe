@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// using println
         System.out.println("Hi my name is Jason.");
         System.out.println("I like to make digital art.");
         System.out.println("I met Jamie Hyneman at NextFest in Chicago when I was a kid.");
